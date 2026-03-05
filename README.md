@@ -46,12 +46,6 @@ git clone <https://github.com/carvalho484/Projeto_4_HTML_CSS-.git>
 
 ![Tela da Lista de Contatos](IMG/Tela_lista.png)
 
-## Áreas para Melhoria
-- **Adicionar interatividade real:** criar funções em JavaScript para deletar e editar contatos.
-- **Responsividade aprimorada:** otimizar exibição em dispositivos móveis menores.
-- **Validação de dados:** impedir emails duplicados ou inválidos.
-- **Backend e persistência:** integrar banco de dados ou localStorage para salvar alterações.
-
 ## Conclusão
 Projeto simples e funcional para praticar HTML e CSS.
 Excelente para estudo de layout com Flexbox, estilização de listas e tipografia personalizada.
