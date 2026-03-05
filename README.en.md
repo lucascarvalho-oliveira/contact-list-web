@@ -4,10 +4,11 @@
   </a>
 </p>
 
-# contact-list-web 
-Contact List project developed using HTML5 and CSS3.
-It displays contacts with photo, name, email, and buttons to edit or delete.
-The project focuses on responsive layout, Flexbox, image styling, and custom typography.
+# contact-list-web ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+**Contact List** project developed using `HTML5` and `CSS3`.
+It displays contacts with photo, name, email, and buttons to **edit** or **delete**.
+The project focuses on **responsive layout**, **Flexbox**, **image styling**, and custom typography.
 
 ## Technologies
 - HTML5
@@ -32,6 +33,8 @@ git clone <https://github.com/carvalho484/Projeto_4_HTML_CSS-.git>
 - Custom font via Google Fonts
 
 ## Demo
+
+![Tela da Lista de Contatos](IMG/Tela_lista.png)
 
 ## Conclusion
 A simple and functional project to practice HTML and CSS.
